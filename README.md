@@ -1,2 +1,4 @@
-# UntitledGrappleGame
-A physics test game where you can grapple around.
+# Untitled Grapple Game
+  A physics playground for me where you can grapple, wallrun, and slide around.
+
+  Licensed with GitHub MIT License
